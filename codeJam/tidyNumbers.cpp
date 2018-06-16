@@ -1,0 +1,16 @@
+// Ankit Saini - sainiak009@gmail.com
+		
+#include <iostream>
+using namespace std;
+
+int main(){
+	int T;
+	cin >> T;
+
+	while(--T){
+		
+	}
+	
+	return 0;
+}
+		
